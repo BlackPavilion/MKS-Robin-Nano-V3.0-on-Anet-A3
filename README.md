@@ -1,4 +1,7 @@
-# MKS-Robin-Nano-V3.X
+# MKS-Robin-Nano-V3.0 for Anet A3
+
+Clone of the repository for Anet A3 printer with MKS Robin Nano V3.0 board.
+
 Robin nano V3 is an upgraded version of [Robin Nano V2.0](https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X). The upgrade changes are quite large, including upgrading the MCU to the M4 core, and adding support for USB disk.
 
 ## Related tutorials and Notice
